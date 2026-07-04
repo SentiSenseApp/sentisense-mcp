@@ -1,6 +1,6 @@
 # SentiSense MCP Connector
 
-**Market intelligence for the most-watched US stocks, right inside Claude and ChatGPT.**
+**Market intelligence for the most-watched US stocks, right inside Claude, ChatGPT, or a local MCP client like Claude Code.**
 
 SentiSense is a hosted [Model Context Protocol](https://modelcontextprotocol.io) (MCP) server. Add one URL and your AI assistant can answer questions about US market mood, a stock's sentiment and the SentiSense Score, market-moving news, analyst ratings, and institutional flows, in plain English.
 
